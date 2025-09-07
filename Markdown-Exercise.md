@@ -19,6 +19,8 @@
 
 [Montgomery College Website](https://www.montgomerycollege.edu)
 
+![Alt text](path/to/image.jpg "Optional title text")
+
 > Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.
 >
 > — Martin Luther King Jr.
