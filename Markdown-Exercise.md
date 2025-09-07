@@ -1,30 +1,35 @@
-**Desaleigh 9/5/25**
+**Desaleigh Mazo 9/5/25**
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
+# Hello World
+## Hello World
+### Hello World
+#### Hello World
 
-**Bold text**
-*Italic text*
-***Bold and italic text***
 
-- First item
-- Second item
-- Third item
-
-1. item
-2. item
-3. item
-
-[Montgomery College Website](https://www.montgomerycollege.edu)
+**Different types of lilies**
+- Madonna Lily
+- Tiger Lily
+- Stargazer
 
 ![Lily](lily.jpg)
 
-> Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.
->
-> — Martin Luther King Jr.
+**To Do List:**
+1. Math homework
+2. SOCY Reading
+3. Email supervisor
 
+---
+[Studio Drift Website](https://studiodrift.com/works/)
+---
+
+**Books to Read**
+> A Little Life by *Hanya Yanagihara* 
+> 
+> The Midnight Library by *Matt Haig*
+>
+> The Secret History by *Donna Tartt*
+---
+**Inline Code & Code Blocks**
 ```python
 def greet(name):
     return f"Hello, {name}!"
@@ -33,15 +38,20 @@ print(greet("World"))
 ```
 ---
 
-Linear algebra is key in data science applications.
-                [^1] Muhammad & Saidi (2024), Scatterplot, 1(1).
-
+***Bucket List***
 - [ ] Hike Swiss Alps
 - [x] Solo travel
 - [ ] Adopt a cat
 
 
-| Header 1 | Header 2 |
+| x | y |
 |----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| 0 | 2 |
+| 1 | 4 |
+| 2 | 6 |
+| 3 | 8 |
+
+---
+
+Linear algebra is key in data science applications.
+                [^1] Muhammad & Saidi (2024), Scatterplot, 1(1).
