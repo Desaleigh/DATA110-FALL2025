@@ -36,9 +36,9 @@ print(greet("World"))
 Linear algebra is key in data science applications.
                 [^1] Muhammad & Saidi (2024), Scatterplot, 1(1).
 
-- [ ] Unchecked item
- [x] Checked item
-- [ ] Another unchecked item
+- [ ] Hike Swiss Alps
+- [x] Solo travel
+- [ ] Adopt a cat
 
 
 | Header 1 | Header 2 |
